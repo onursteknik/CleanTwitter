@@ -13,5 +13,7 @@ $(document).scroll(function () {
 });
 
 $(".js-new-items-bar-container").click(function(){
-  ClTwCleanTimeline();
+  setTimeout(function () {
+    ClTwCleanTimeline();
+  }, 500);
 });
