@@ -11,3 +11,7 @@ setTimeout(function () {
 $(document).scroll(function () {
   ClTwCleanTimeline();
 });
+
+$(".js-new-items-bar-container").click(function(){
+  ClTwCleanTimeline();
+});
