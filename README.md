@@ -9,6 +9,6 @@ Sayfada aşağı inildikçe eklenti otomatik olarak bahsi geçen tweetleri gizle
 
 Twitter Clean Timeline Chrome Extension
 
-This Google plugin removes tweets with headings such as Retweet and 'X liked this' on Twitter Timeline.
+This Google Extension removes tweets with headings such as Retweet and 'X liked this' on Twitter Timeline.
 You can install the plug-in by opening Developer Mode.
 As the page goes down, the plugin automatically hides the mentioned tweets.
